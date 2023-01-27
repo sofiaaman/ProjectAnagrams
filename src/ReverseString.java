@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class ReverseString {
 
-    String str;
-
     public String getStr() {
         Scanner in = new Scanner(System.in);
         return in.nextLine();
